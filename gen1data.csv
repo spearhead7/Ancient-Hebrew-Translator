@@ -1,0 +1,768 @@
+﻿Ref,Eng,Heb6,Heb5,Heb4,Heb3,Heb2,Heb1,Highlight,Morph,Strongs
+Gen.1.1-01,in the head,,,,,רֵאשׁית,בְּ,p,HR/Ncfsa,H9003=ב=in/H7225=רֵאשִׁית=first_§1_beginning
+Gen.1.1-02,he has cut-out,,,,,,בָּרָא,,HVqp3ms,H1254a=בָּרָא=to create
+Gen.1.1-03,elohim,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.1-04,אֵת-,,,,,,אֵת,b,HTo,H0853=אֵת=obj.
+Gen.1.1-05,the Heavenly-pair,,,,,שָּׁמַיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven
+Gen.1.1-06,אֵת-and,,,,,אֵת,וְ,b,HC/To,H9002=ו=and/H0853=אֵת=obj.
+Gen.1.1-07,,,,,׃,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet/H9016=׃=verseEnd
+Gen.1.2-01,,,,,אָ֗רֶץ,הָ,וְ,,HC/Td/Ncbsa,H9002=ו=and/H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet
+Gen.1.2-02,,,,,,,הָיְתָה,,HVqp3fs,H1961=הָיָה=to be
+Gen.1.2-03,,,,,,,תֹהוּ,,HNcbsa,H8414=תֹּ֫הוּ=formlessness
+Gen.1.2-04,,,,,,בֹהוּ,וָ,,HC/Ncbsa,H9002=ו=and/H0922=בֹּהוּ=void
+Gen.1.2-05,,,,,,חֹשֶׁךְ,וְ,,HC/Ncbsa,H9002=ו=and/H2822=חֹ֫שֶׁךְ=darkness
+Gen.1.2-06,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.1.2-07,,,,,,,פְּנֵי,,HNcmpc,H6440=פָּנֶה=face_§4_surface|land
+Gen.1.2-08,,,,,,,תְהוֹם,,HNcbsa,H8415=תְּהוֹם=abyss
+Gen.1.2-09,,,,,,רוּחַ,וְ,,HC/Ncbsc,H9002=ו=and/H7307=רוּחַ=spirit_§1_spirit
+Gen.1.2-10,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.2-11,,,,,,,מְרַחֶפֶת,,HVprfsa,H7363b=רָחַף=to hover
+Gen.1.2-12,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.1.2-13,,,,,,,פְּנֵי,,HNcmpc,H6440=פָּנֶה=face_§4_surface|land
+Gen.1.2-14,,,,,׃,מָּיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H4325=מַי=water_§_water/H9016=׃=verseEnd
+Gen.1.3-01,,,,,,יֹּאמֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H0559=אָמַר=to say
+Gen.1.3-02,,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.3-03,,,,,,,יְהִי,,HVqi3ms,H1961=הָיָה=to be
+Gen.1.3-04,,,,,,,אוֹר,,HNcbsa,H0216=אוֹר=light
+Gen.1.3-05,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.3-06,,,,,,׃,אוֹר,,HNcbsa,H0216=אוֹר=light/H9016=׃=verseEnd
+Gen.1.4-01,,,,,,יַּרְא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7200=רָאָה=to see_§1_see|show
+Gen.1.4-02,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.4-03,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.1.4-04,,,,,,אוֹר,הָ,,HTd/Ncbsa,H9009=ה=the/H0216=אוֹר=light
+Gen.1.4-05,,,,,,־,כִּי,,HTc,H3588a=כִּי=for/H9014=־=link
+Gen.1.4-06,,,,,,,טוֹב,,HVqp3ms,H2896a=טוֹב=pleasant
+Gen.1.4-07,,,,,,יַּבְדֵּל,וַ,,Hc/Vhw3ms,H9001=ו=seq/H0914=בָּדַל=to separate
+Gen.1.4-08,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.4-09,,,,,,,בֵּין,,HNcbsc,H0996=בַּ֫יִן=between_§1_between
+Gen.1.4-10,,,,,,אוֹר,הָ,,HTd/Ncbsa,H9009=ה=the/H0216=אוֹר=light
+Gen.1.4-11,,,,,,בֵין,וּ,,HC/Ncbsc,H9002=ו=and/H0996=בַּ֫יִן=between_§1_between
+Gen.1.4-12,,,,,׃,חֹשֶׁךְ,הָ,,HTd/Ncbsa,H9009=ה=the/H2822=חֹ֫שֶׁךְ=darkness/H9016=׃=verseEnd
+Gen.1.5-01,,,,,,יִּקְרָא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7121=קָרָא=to call_§2_call_by|name
+Gen.1.5-02,,,,,,׀,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1/H9015=׀=separate
+Gen.1.5-03,,,,,,אוֹר,לָ,,HRd/Ncbsa,H9005=ל=to/H0216=אוֹר=light
+Gen.1.5-04,,,,,,,יוֹם,,HNcbsa,H3117=יוֹם=day_§1_day
+Gen.1.5-05,,,,,חֹשֶׁךְ,לַ,וְ,,HC/Rd/Ncbsa,H9002=ו=and/H9005=ל=to/H2822=חֹ֫שֶׁךְ=darkness
+Gen.1.5-06,,,,,,,קָרָא,,HVqp3ms,H7121=קָרָא=to call_§2_call_by|name
+Gen.1.5-07,,,,,,,לָיְלָה,,HNcbsa,H3915=לַ֫יְלָה=night
+Gen.1.5-08,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.5-09,,,,,,,עֶרֶב,,HNcbsa,H6153=עֶ֫רֶב=evening
+Gen.1.5-10,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.5-11,,,,,,,בֹקֶר,,HNcbsa,H1242=בֹּ֫קֶר=morning
+Gen.1.5-12,,,,,,,יוֹם,,HNcbsa,H3117=יוֹם=day_§1_day
+Gen.1.5-13,one,,,,פ,׃,אֶחָד,l,HAcbsa,H0259=אֶחָד=one/H9016=׃=verseEnd/H9017=פ=para
+Gen.1.6-01,,,,,,יֹּאמֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H0559=אָמַר=to say
+Gen.1.6-02,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.6-03,,,,,,,יְהִי,,HVqi3ms,H1961=הָיָה=to be
+Gen.1.6-04,,,,,,,רָקיעַ,,HNcbsa,H7549=רָקִיעַ=expanse
+Gen.1.6-05,,,,,,תוֹךְ,בְּ,,HR/Ncbsc,H9003=ב=in/H8432=תָּ֫וֶךְ=midst
+Gen.1.6-06,,,,,,מָּיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H4325=מַי=water_§_water
+Gen.1.6-07,,,,,,יהִי,וִ,,HC/Vqu3ms,H9002=ו=and/H1961=הָיָה=to be
+Gen.1.6-08,,,,,,,מַבְדִּיל,,HVhrmsa,H0914=בָּדַל=to separate
+Gen.1.6-09,,,,,,,בֵּין,,HNcbsc,H0996=בַּ֫יִן=between_§1_between
+Gen.1.6-10,,,,,,,מַיִם,,HNcmpa,H4325=מַי=water_§_water
+Gen.1.6-11,,,,,׃,מָיִם,לָ,,HR/Ncmpa,H9005=ל=to/H4325=מַי=water_§_water/H9016=׃=verseEnd
+Gen.1.7-01,,,,,,יַּעַשׂ,וַ,,Hc/Vqw3ms,H9001=ו=seq/H6213a=עָשָׂה=to make_§1_make(OBJECT)
+Gen.1.7-02,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.7-03,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.1.7-04,,,,,,רָקִיעַ֒,הָ,,HTd/Ncbsa,H9009=ה=the/H7549=רָקִיעַ=expanse
+Gen.1.7-05,,,,,,יַּבְדֵּ֗ל,וַ,,Hc/Vhw3ms,H9001=ו=seq/H0914=בָּדַל=to separate
+Gen.1.7-06,,,,,,,בֵּין,,HNcbsc,H0996=בַּ֫יִן=between_§1_between
+Gen.1.7-07,,,,,,מַּיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H4325=מַי=water_§_water
+Gen.1.7-08,,,,,,,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which
+Gen.1.7-09,,,,,,תַּחַת,מִ,,HR/Ncbsc,H9006=מ=from/H8478=תַּחַת=underneath_§1_under|below
+Gen.1.7-10,,,,,,רָקִיעַ,לָ,,HRd/Ncbsa,H9005=ל=to/H7549=רָקִיעַ=expanse
+Gen.1.7-11,,,,,,בֵין,וּ,,HC/Ncbsc,H9002=ו=and/H0996=בַּ֫יִן=between_§1_between
+Gen.1.7-12,,,,,,מַּיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H4325=מַי=water_§_water
+Gen.1.7-13,,,,,,,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which
+Gen.1.7-14,,,,,,עַל,מֵ,,HR/R,H9006=מ=from/H5921a=עַל=upon
+Gen.1.7-15,,,,,,רָקיעַ,לָ,,HRd/Ncbsa,H9005=ל=to/H7549=רָקִיעַ=expanse
+Gen.1.7-16,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.7-17,,,,,,׃,כֵן,,HD,H3651c=כֵּן=so/H9016=׃=verseEnd
+Gen.1.8-01,,,,,,יִּקְרָא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7121=קָרָא=to call_§2_call_by|name
+Gen.1.8-02,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.8-03,,,,,,רָקיעַ,לָ,,HRd/Ncbsa,H9005=ל=to/H7549=רָקִיעַ=expanse
+Gen.1.8-04,,,,,,,שָׁמָיִם,,HNcmpa,H8064=שָׁמַיִם=heaven
+Gen.1.8-05,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.8-06,,,,,,,עֶרֶב,,HNcbsa,H6153=עֶ֫רֶב=evening
+Gen.1.8-07,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.8-08,,,,,,,בֹקֶר,,HNcbsa,H1242=בֹּ֫קֶר=morning
+Gen.1.8-09,,,,,,,יוֹם,,HNcbsa,H3117=יוֹם=day_§1_day
+Gen.1.8-10,,,,,פ,׃,שֵׁנִי,,HAobsa,H8145=שֵׁנִי=second/H9016=׃=verseEnd/H9017=פ=para
+Gen.1.9-01,,,,,,יֹּאמֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H0559=אָמַר=to say
+Gen.1.9-02,,,,,,,אֱלֹהִ֗ים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.9-03,,,,,,,יִקָּווּ,,HVNi3mp,H6960b=קָוָה=to collect
+Gen.1.9-04,,,,,,מַּ֜יִם,הָ,,HTd/Ncmpa,H9009=ה=the/H4325=מַי=water_§_water
+Gen.1.9-05,,,,,,תַּחַת,מִ,,HR/Ncbsc,H9006=מ=from/H8478=תַּחַת=underneath_§1_under|below
+Gen.1.9-06,,,,,,שָּׁמַיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven
+Gen.1.9-07,,,,,,־,אֶל,,HR,H0413=אֶל=to(wards)/H9014=־=link
+Gen.1.9-08,,,,,,,מָקוֹם,,HNcbsa,H4725=מָקוֹם=standing place
+Gen.1.9-09,,,,,,,אֶחָד,,HAcbsa,H0259=אֶחָד=one
+Gen.1.9-10,,,,,,תֵרָאֶה,וְ,,HC/VNu3fs,H9002=ו=and/H7200=רָאָה=to see_§1_see|show
+Gen.1.9-11,,,,,,יַּבָּשָׁה,הָ,,HTd/Ncfsa,H9009=ה=the/H3004=יַבָּשָׁה=dry land
+Gen.1.9-12,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.9-13,,,,,,׃,כֵן,,HD,H3651c=כֵּן=so/H9016=׃=verseEnd
+Gen.1.10-01,,,,,,יִּקְרָא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7121=קָרָא=to call_§2_call_by|name
+Gen.1.10-02,,,,,,׀,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1/H9015=׀=separate
+Gen.1.10-03,,,,,,יַּבָּשָׁה,לַ,,HRd/Ncfsa,H9005=ל=to/H3004=יַבָּשָׁה=dry land
+Gen.1.10-04,,,,,,,ארֶץ,,HNcbsa,H0776=אֶ֫רֶץ=land_§3_planet
+Gen.1.10-05,,,,,מִקְוֵה,לְ,וּ,,HC/R/Ncbsc,H9002=ו=and/H9005=ל=to/H4723c=מִקְוֶה=collection
+Gen.1.10-06,,,,,,מַּיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H4325=מַי=water_§_water
+Gen.1.10-07,,,,,,,קָרָא,,HVqp3ms,H7121=קָרָא=to call_§2_call_by|name
+Gen.1.10-08,,,,,,,יַמּים,,HNcmpa,H3220=יָם=sea_§1_sea
+Gen.1.10-09,,,,,,יַּרְא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7200=רָאָה=to see_§1_see|show
+Gen.1.10-10,,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.10-11,,,,,,־,כִּי,,HTc,H3588a=כִּי=for/H9014=־=link
+Gen.1.10-12,,,,,,׃,טוֹב,,HVqp3ms,H2896a=טוֹב=pleasant/H9016=׃=verseEnd
+Gen.1.11-01,,,,,,יֹּאמֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H0559=אָמַר=to say
+Gen.1.11-02,,,,,,,אֱלֹהִ֗ים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.11-03,,,,,,,תַּדְשֵׁא,,HVhi3fs,H1876=דָּשָׁא=to sprout
+Gen.1.11-04,,,,,,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet
+Gen.1.11-05,,,,,,,דּשֶׁא,,HNcbsa,H1877=דֶּ֫שֶׁא=grass
+Gen.1.11-06,,,,,,,עֵ֚שֶׂב,,HNcbsa,H6212=עֵ֫שֶׂב=vegetation
+Gen.1.11-07,,,,,,,מַזְרִיעַ,,HVhrmsa,H2232=זָרַע=to sow
+Gen.1.11-08,,,,,,,זרַע,,HNcbsa,H2233=זֶ֫רַע=seed_§1_seed|sowing
+Gen.1.11-09,,,,,,,עֵץ,,HNcbsc,H6086=עֵץ=tree_§2_tree
+Gen.1.11-10,,,,,,,פְּרִ֞י,,HNcbsa,H6529=פְּרִי=fruit
+Gen.1.11-11,,,,,,,עֹשֶׂה,,HVqrmsa,H6213a=עָשָׂה=to make_§1_make(OBJECT)
+Gen.1.11-12,,,,,,,פְּרִי,,HNcbsa,H6529=פְּרִי=fruit
+Gen.1.11-13,,,,,וֹ,מִינ,לְ,,HR/Ncbsc/Sp3ms,H9005=ל=to/H4327=מִין=kind/H9023=Ps3m=his
+Gen.1.11-14,,,,,,,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which
+Gen.1.11-15,,,,,־,וֹ,זַרְע,,HNcbsc/Sp3ms,H2233=זֶ֫רַע=seed_§1_seed|sowing/H9023=Ps3m=his/H9014=־=link
+Gen.1.11-16,,,,,,וֹ,ב,,HRd/Sp3ms,H9003=ב=in/H9033=Os3m=him
+Gen.1.11-17,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.1.11-18,,,,,,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet
+Gen.1.11-19,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.11-20,,,,,,׃,כֵן,,HD,H3651c=כֵּן=so/H9016=׃=verseEnd
+Gen.1.12-01,,,,,,תּוֹצֵא,וַ,,Hc/Vhw3fs,H9001=ו=seq/H3318=יָצָא=to come out_§7_produce|birth|sprout(LIVING_THINGS)
+Gen.1.12-02,,,,,,אָ֜רֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet
+Gen.1.12-03,,,,,,,דּשֶׁא,,HNcbsa,H1877=דֶּ֫שֶׁא=grass
+Gen.1.12-04,,,,,,,עֵשֶׂב,,HNcbsa,H6212=עֵ֫שֶׂב=vegetation
+Gen.1.12-05,,,,,,,מַזְרִיעַ,,HVhrmsa,H2232=זָרַע=to sow
+Gen.1.12-06,,,,,,,זֶרַע,,HNcbsa,H2233=זֶ֫רַע=seed_§1_seed|sowing
+Gen.1.12-07,,,,,הוּ,מִינֵ,לְ,,HR/Ncbsc/Sp3ms,H9005=ל=to/H4327=מִין=kind/H9023=Ps3m=his
+Gen.1.12-08,,,,,,עֵץ,וְ,,HC/Ncbsa,H9002=ו=and/H6086=עֵץ=tree_§2_tree
+Gen.1.12-09,,,,,,־,עֹשֶׂה,,HVqrmsa,H6213a=עָשָׂה=to make_§1_make(OBJECT)/H9014=־=link
+^([^,,,,,,,,,,
+]*)-\d+\.[^,,,,,,,,,,
+Gen.1.12-10,,,,,,,פְּרִי,,HNcbsa,H6529=פְּרִי=fruit
+Gen.1.12-11,,,,,,,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which
+Gen.1.12-12,,,,,־,וֹ,זַרְע,,HNcbsc/Sp3ms,H2233=זֶ֫רַע=seed_§1_seed|sowing/H9023=Ps3m=his/H9014=־=link
+Gen.1.12-13,,,,,,וֹ,ב,,HRd/Sp3ms,H9003=ב=in/H9033=Os3m=him
+Gen.1.12-14,,,,,הוּ,מִינֵ,לְ,,HR/Ncbsc/Sp3ms,H9005=ל=to/H4327=מִין=kind/H9023=Ps3m=his
+Gen.1.12-15,,,,,,יַּרְא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7200=רָאָה=to see_§1_see|show
+Gen.1.12-16,,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.12-17,,,,,,־,כִּי,,HTc,H3588a=כִּי=for/H9014=־=link
+Gen.1.12-18,,,,,,׃,טוֹב,,HVqp3ms,H2896a=טוֹב=pleasant/H9016=׃=verseEnd
+Gen.1.13-01,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.13-02,,,,,,,עֶרֶב,,HNcbsa,H6153=עֶ֫רֶב=evening
+Gen.1.13-03,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.13-04,,,,,,,בֹקֶר,,HNcbsa,H1242=בֹּ֫קֶר=morning
+Gen.1.13-05,,,,,,,יוֹם,,HNcbsa,H3117=יוֹם=day_§1_day
+Gen.1.13-06,,,,,פ,׃,שְׁלִישִׁי,,HAobsa,H7992=שְׁלִישִׁי=third/H9016=׃=verseEnd/H9017=פ=para
+Gen.1.14-01,,,,,,יֹּאמֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H0559=אָמַר=to say
+Gen.1.14-02,,,,,,,אֱלֹהִ֗ים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.14-03,,,,,,,יְהִי,,HVqi3ms,H1961=הָיָה=to be
+Gen.1.14-04,,,,,,,מְאֹרֹת,,HNcfpa,H3974=מָאוֹר=light
+Gen.1.14-05,,,,,,רְקִיעַ,בִּ,,HR/Ncbsc,H9003=ב=in/H7549=רָקִיעַ=expanse
+Gen.1.14-06,,,,,,שָּׁמַיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven
+Gen.1.14-07,,,,,,הַבְדִּ֕יל,לְ,,HR/Vhcc,H9005=ל=to/H0914=בָּדַל=to separate
+Gen.1.14-08,,,,,,,בֵּין,,HNcbsc,H0996=בַּ֫יִן=between_§1_between
+Gen.1.14-09,,,,,,יּוֹם,הָ,,HTd/Ncbsa,H9009=ה=the/H3117=יוֹם=day_§1_day
+Gen.1.14-10,,,,,,בֵין,וּ,,HC/Ncbsc,H9002=ו=and/H0996=בַּ֫יִן=between_§1_between
+Gen.1.14-11,,,,,,לָּיְלָה,הָ,,HTd/Ncbsa,H9009=ה=the/H3915=לַ֫יְלָה=night
+Gen.1.14-12,,,,,,הָיוּ,וְ,,Hc/Vqq3cp,H9001=ו=seq/H1961=הָיָה=to be
+Gen.1.14-13,,,,,,אֹתֹת,לְ,,HR/Ncfpa,H9005=ל=to/H0226=אוֹת=sign_§2_indicator
+Gen.1.14-14,,,,,מוֹעֲדִים,לְ,וּ,,HC/R/Ncmpa,H9002=ו=and/H9005=ל=to/H4150=מוֹעֵד=meeting_§1_time_appointed
+Gen.1.14-15,,,,,יָמים,לְ,וּ,,HC/R/Ncmpa,H9002=ו=and/H9005=ל=to/H3117=יוֹם=day_§2_when|time|(period|life)[of_days]
+Gen.1.14-16,,,,,׃,שָׁנִים,וְ,,HC/Ncmpa,H9002=ו=and/H8141=שָׁנָה=year/H9016=׃=verseEnd
+Gen.1.15-01,,,,,,הָיוּ,וְ,,Hc/Vqq3cp,H9001=ו=seq/H1961=הָיָה=to be
+Gen.1.15-02,,,,,,מְאוֹרֹת,לִ,,HR/Ncfpa,H9005=ל=to/H3974=מָאוֹר=light
+Gen.1.15-03,,,,,,רְקִיעַ,בִּ,,HR/Ncbsc,H9003=ב=in/H7549=רָקִיעַ=expanse
+Gen.1.15-04,,,,,,שָּׁמַיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven
+Gen.1.15-05,,,,,,הָאיר,לְ,,HR/Vhcc,H9005=ל=to/H0215=אוֹר=to light
+Gen.1.15-06,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.1.15-07,,,,,,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet
+Gen.1.15-08,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.15-09,,,,,,׃,כֵן,,HD,H3651c=כֵּן=so/H9016=׃=verseEnd
+Gen.1.16-01,,,,,,יַּעַשׂ,וַ,,Hc/Vqw3ms,H9001=ו=seq/H6213a=עָשָׂה=to make_§1_make(OBJECT)
+Gen.1.16-02,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.16-03,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.1.16-04,,,,,,,שְׁנֵי,,HAcbdc,H8147=שְׁנַ֫יִם=two
+Gen.1.16-05,,,,,,מְּאֹרֹת,הָ,,HTd/Ncfpa,H9009=ה=the/H3974=מָאוֹר=light
+Gen.1.16-06,,,,,,גְּדֹלים,הָ,,HTd/Aampa,H9009=ה=the/H1419a=גָּדוֹל=great_§_great
+Gen.1.16-07,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.1.16-08,,,,,,מָּאוֹר,הָ,,HTd/Ncbsa,H9009=ה=the/H3974=מָאוֹר=light
+Gen.1.16-09,,,,,,גָּדֹל,הָ,,HTd/Aabsa,H9009=ה=the/H1419a=גָּדוֹל=great_§_great
+Gen.1.16-10,,,,,,מֶמְשֶׁלֶת,לְ,,HR/Ncfsc,H9005=ל=to/H4475=מֶמְשָׁלָה=dominion
+Gen.1.16-11,,,,,,יּוֹם,הָ,,HTd/Ncbsa,H9009=ה=the/H3117=יוֹם=day_§1_day
+Gen.1.16-12,,,,,־,אֶת,וְ,,HC/To,H9002=ו=and/H0853=אֵת=obj./H9014=־=link
+Gen.1.16-13,,,,,,מָּאוֹר,הָ,,HTd/Ncbsa,H9009=ה=the/H3974=מָאוֹר=light
+Gen.1.16-14,,,,,,קָּטֹן,הָ,,HTd/Aabsa,H9009=ה=the/H6996b=קָטֹן=small_§1_small
+Gen.1.16-15,,,,,,מֶמְשֶׁלֶת,לְ,,HR/Ncfsc,H9005=ל=to/H4475=מֶמְשָׁלָה=dominion
+Gen.1.16-16,,,,,,לַּיְלָה,הָ,,HTd/Ncbsa,H9009=ה=the/H3915=לַ֫יְלָה=night
+Gen.1.16-17,,,,,,אֵת,וְ,,HC/To,H9002=ו=and/H0853=אֵת=obj.
+Gen.1.16-18,,,,,׃,כּוֹכָבִים,הָ,,HTd/Ncmpa,H9009=ה=the/H3556=כּוֹכָב=star/H9016=׃=verseEnd
+Gen.1.17-01,,,,,,יִּתֵּן,וַ,,Hc/Vqw3ms,H9001=ו=seq/H5414=נָתַן=to give_§2_put|set|apppoint
+Gen.1.17-02,,,,,,ם,אֹתָ,,HTo/Sp3mp,H0853=אֵת=obj./H9038=Op3m=them
+Gen.1.17-03,,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.17-04,,,,,,רְקִיעַ,בִּ,,HR/Ncbsc,H9003=ב=in/H7549=רָקִיעַ=expanse
+Gen.1.17-05,,,,,,שָּׁמָיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven
+Gen.1.17-06,,,,,,הָאיר,לְ,,HR/Vhcc,H9005=ל=to/H0215=אוֹר=to light
+Gen.1.17-07,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.1.17-08,,,,,׃,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet/H9016=׃=verseEnd
+Gen.1.18-01,,,,,מְשֹׁל,לִ,וְ,,HC/R/Vqcc,H9002=ו=and/H9005=ל=to/H4910=מָשַׁל=to rule
+Gen.1.18-02,,,,,,יּוֹם,בַּ,,HRd/Ncbsa,H9003=ב=in/H3117=יוֹם=day_§1_day
+Gen.1.18-03,,,,,לַּיְלָה,בַ,וּ,,HC/Rd/Ncbsa,H9002=ו=and/H9003=ב=in/H3915=לַ֫יְלָה=night
+Gen.1.18-04,,,,,הַבְדִּיל,לֲ,וּ,,HC/R/Vhcc,H9002=ו=and/H9005=ל=to/H0914=בָּדַל=to separate
+Gen.1.18-05,,,,,,,בֵּין,,HNcbsc,H0996=בַּ֫יִן=between_§1_between
+Gen.1.18-06,,,,,,אוֹר,הָ,,HTd/Ncbsa,H9009=ה=the/H0216=אוֹר=light
+Gen.1.18-07,,,,,,בֵין,וּ,,HC/Ncbsc,H9002=ו=and/H0996=בַּ֫יִן=between_§1_between
+Gen.1.18-08,,,,,,חשֶׁךְ,הָ,,HTd/Ncbsa,H9009=ה=the/H2822=חֹ֫שֶׁךְ=darkness
+Gen.1.18-09,,,,,,יַּרְא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7200=רָאָה=to see_§1_see|show
+Gen.1.18-10,,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.18-11,,,,,,־,כִּי,,HTc,H3588a=כִּי=for/H9014=־=link
+Gen.1.18-12,,,,,,׃,טוֹב,,HVqp3ms,H2896a=טוֹב=pleasant/H9016=׃=verseEnd
+Gen.1.19-01,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.19-02,,,,,,,עֶרֶב,,HNcbsa,H6153=עֶ֫רֶב=evening
+Gen.1.19-03,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.19-04,,,,,,,בֹקֶר,,HNcbsa,H1242=בֹּ֫קֶר=morning
+Gen.1.19-05,,,,,,,יוֹם,,HNcbsa,H3117=יוֹם=day_§1_day
+Gen.1.19-06,,,,,פ,׃,רְבִיעִי,,HAobsa,H7243=רְבִיעִי=fourth/H9016=׃=verseEnd/H9017=פ=para
+Gen.1.20-01,,,,,,יֹּאמֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H0559=אָמַר=to say
+Gen.1.20-02,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.20-03,,,,,,,יִשְׁרְצוּ,,HVqi3mp,H8317=שָׁרַץ=to swarm
+Gen.1.20-04,,,,,,מַּיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H4325=מַי=water_§_water
+Gen.1.20-05,,,,,,,שֶׁרֶץ,,HNcbsc,H8318=שֶׁ֫רֶץ=swarm
+Gen.1.20-06,,,,,,,נֶפֶשׁ,,HNcbsa,H5315=נֶ֫פֶשׁ=soul_§5_animal
+Gen.1.20-07,,,,,,,חַיָּה,,HAafsa,H2416a=חַי=alive
+Gen.1.20-08,,,,,,עוֹף,וְ,,HC/Ncbsa,H9002=ו=and/H5775=עוֹף=bird
+Gen.1.20-09,,,,,,,יְעוֹפֵף,,HVpi3ms,H5774a=עוּף=to fly
+Gen.1.20-10,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.1.20-11,,,,,,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet
+Gen.1.20-12,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.1.20-13,,,,,,,פְּנֵי,,HNcmpc,H6440=פָּנֶה=face_§4_surface|land
+Gen.1.20-14,,,,,,,רְקִיעַ,,HNcbsc,H7549=רָקִיעַ=expanse
+Gen.1.20-15,,,,,׃,שָּׁמָיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven/H9016=׃=verseEnd
+Gen.1.21-01,,,,,,יִּבְרָא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1254a=בָּרָא=to create
+Gen.1.21-02,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.21-03,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.1.21-04,,,,,,תַּנִּינם,הָ,,HTd/Ncmpa,H9009=ה=the/H8577b=תַּנִּין=serpent_§_monster
+Gen.1.21-05,,,,,,גְּדֹלים,הָ,,HTd/Aampa,H9009=ה=the/H1419a=גָּדוֹל=great_§_great
+Gen.1.21-06,,,,,,אֵת,וְ,,HC/To,H9002=ו=and/H0853=אֵת=obj.
+Gen.1.21-07,,,,,,־,כָּל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.1.21-08,,,,,,,נֶפֶשׁ,,HNcbsa,H5315=נֶ֫פֶשׁ=soul_§5_animal
+Gen.1.21-09,,,,,׀,חַיָּה,הָ,,HTd/Aafsa,H9009=ה=the/H2416a=חַי=alive/H9015=׀=separate
+Gen.1.21-10,,,,,,רֹמֶ֡שֶׂת,הָ,,HTd/Vqrfsa,H9009=ה=the/H7430=רָמַשׂ=to creep
+Gen.1.21-11,,,,,,,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which
+Gen.1.21-12,,,,,,,שָׁרְצוּ,,HVqp3cp,H8317=שָׁרַץ=to swarm
+Gen.1.21-13,,,,,,מַּ֜יִם,הָ,,HTd/Ncmpa,H9009=ה=the/H4325=מַי=water_§_water
+Gen.1.21-14,,,,,הֶ֗ם,מִינֵ,לְ,,HR/Ncbsc/Sp3mp,H9005=ל=to/H4327=מִין=kind/H9028=Pp3m=their
+Gen.1.21-15,,,,,,אֵת,וְ,,HC/To,H9002=ו=and/H0853=אֵת=obj.
+Gen.1.21-16,,,,,,־,כָּל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.1.21-17,,,,,,,עוֹף,,HNcbsa,H5775=עוֹף=bird
+Gen.1.21-18,,,,,,,כָּנָף,,HNcbsa,H3671=כָּנָף=wing
+Gen.1.21-19,,,,,הוּ,מִינֵ,לְ,,HR/Ncbsc/Sp3ms,H9005=ל=to/H4327=מִין=kind/H9023=Ps3m=his
+Gen.1.21-20,,,,,,יַּרְא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7200=רָאָה=to see_§1_see|show
+Gen.1.21-21,,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.21-22,,,,,,־,כִּי,,HTc,H3588a=כִּי=for/H9014=־=link
+Gen.1.21-23,,,,,,׃,טוֹב,,HVqp3ms,H2896a=טוֹב=pleasant/H9016=׃=verseEnd
+Gen.1.22-01,,,,,,יְבָרֶךְ,וַ,,Hc/Vpw3ms,H9001=ו=seq/H1288=בָּרַךְ=to bless
+Gen.1.22-02,,,,,,ם,אֹתָ,,HTo/Sp3mp,H0853=אֵת=obj./H9038=Op3m=them
+Gen.1.22-03,,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.22-04,,,,,,אמר,לֵ,,HR/Vqcc,H9005=ל=to/H0559=אָמַר=to say
+Gen.1.22-05,,,,,,,פְּרוּ,,HVqv2mp,H6509=פָּרָה=be fruitful
+Gen.1.22-06,,,,,,רְב֗וּ,וּ,,HC/Vqv2mp,H9002=ו=and/H7235a=רָבָה=to multiply
+Gen.1.22-07,,,,,,מִלְאוּ,וּ,,HC/Vqv2mp,H9002=ו=and/H4390=מָלֵא=to fill
+Gen.1.22-08,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.1.22-09,,,,,,מַּיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H4325=מַי=water_§_water
+Gen.1.22-10,,,,,,יַּמִּים,בַּ,,HRd/Ncmpa,H9003=ב=in/H3220=יָם=sea_§1_sea
+Gen.1.22-11,,,,,עוֹף,הָ,וְ,,HC/Td/Ncbsa,H9002=ו=and/H9009=ה=the/H5775=עוֹף=bird
+Gen.1.22-12,,,,,,,יִרֶב,,HVqi3ms,H7235a=רָבָה=to multiply
+Gen.1.22-13,,,,,׃,אָרֶץ,בָּ,,HRd/Ncbsa,H9003=ב=in/H0776=אֶ֫רֶץ=land_§3_planet/H9016=׃=verseEnd
+Gen.1.23-01,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.23-02,,,,,,,עֶרֶב,,HNcbsa,H6153=עֶ֫רֶב=evening
+Gen.1.23-03,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.23-04,,,,,,,בֹקֶר,,HNcbsa,H1242=בֹּ֫קֶר=morning
+Gen.1.23-05,,,,,,,יוֹם,,HNcbsa,H3117=יוֹם=day_§1_day
+Gen.1.23-06,,,,,פ,׃,חֲמִישִׁי,,HAobsa,H2549=חֲמִישִׁי=fifth/H9016=׃=verseEnd/H9017=פ=para
+Gen.1.24-01,,,,,,יֹּאמֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H0559=אָמַר=to say
+Gen.1.24-02,,,,,,,אֱלֹהִ֗ים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.24-03,,,,,,,תּוֹצֵא,,HVhi3fs,H3318=יָצָא=to come out_§7_produce|birth|sprout(LIVING_THINGS)
+Gen.1.24-04,,,,,,אָ֜רֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§1_soil
+Gen.1.24-05,,,,,,,נֶפֶשׁ,,HNcbsa,H5315=נֶ֫פֶשׁ=soul_§5_animal
+Gen.1.24-06,,,,,,,חַיָּה,,HAafsa,H2416a=חַי=alive
+Gen.1.24-07,,,,,הּ,מִינָ,לְ,,HR/Ncbsc/Sp3fs,H9005=ל=to/H4327=מִין=kind/H9024=Ps3f=her
+Gen.1.24-08,,,,,,,בְּהֵמָה,,HNcfsa,H0929=בְּהֵמָה=animal
+Gen.1.24-09,,,,,,רֶמֶשׂ,וָ,,HC/Ncbsa,H9002=ו=and/H7431=רֶ֫מֶשׂ=creeping
+Gen.1.24-10,,,,,־,חַיְתוֹ,וְ,,HC/Ncfsc,H9002=ו=and/H2416c=חַיָּה=living thing/H9014=־=link
+Gen.1.24-11,,,,,,,אֶרֶץ,,HNcbsa,H0776=אֶ֫רֶץ=land_§1_soil
+Gen.1.24-12,,,,,הּ,מִינָ,לְ,,HR/Ncbsc/Sp3fs,H9005=ל=to/H4327=מִין=kind/H9024=Ps3f=her
+Gen.1.24-13,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.24-14,,,,,,׃,כֵן,,HD,H3651c=כֵּן=so/H9016=׃=verseEnd
+Gen.1.25-01,,,,,,יַּעַשׂ,וַ,,Hc/Vqw3ms,H9001=ו=seq/H6213a=עָשָׂה=to make_§1_make(OBJECT)
+Gen.1.25-02,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.25-03,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.1.25-04,,,,,,,חַיַּת,,HNcfsc,H2416c=חַיָּה=living thing
+Gen.1.25-05,,,,,,אָ֜רֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet
+Gen.1.25-06,,,,,הּ,מִינָ֗,לְ,,HR/Ncbsc/Sp3fs,H9005=ל=to/H4327=מִין=kind/H9024=Ps3f=her
+Gen.1.25-07,,,,,־,אֶת,וְ,,HC/To,H9002=ו=and/H0853=אֵת=obj./H9014=־=link
+Gen.1.25-08,,,,,,בְּהֵמָה,הָ,,HTd/Ncfsa,H9009=ה=the/H0929=בְּהֵמָה=animal
+Gen.1.25-09,,,,,הּ,מִינָ,לְ,,HR/Ncbsc/Sp3fs,H9005=ל=to/H4327=מִין=kind/H9024=Ps3f=her
+Gen.1.25-10,,,,,,אֵת,וְ,,HC/To,H9002=ו=and/H0853=אֵת=obj.
+Gen.1.25-11,,,,,,־,כָּל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.1.25-12,,,,,,,רֶמֶשׂ,,HNcbsc,H7431=רֶ֫מֶשׂ=creeping
+Gen.1.25-13,,,,,,אֲדָמָה,הָ,,HTd/Ncfsa,H9009=ה=the/H0127=אֲדָמָה=land_§1_soil
+Gen.1.25-14,,,,,הוּ,מִינֵ,לְ,,HR/Ncbsc/Sp3ms,H9005=ל=to/H4327=מִין=kind/H9023=Ps3m=his
+Gen.1.25-15,,,,,,יַּרְא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7200=רָאָה=to see_§1_see|show
+Gen.1.25-16,,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.25-17,,,,,,־,כִּי,,HTc,H3588a=כִּי=for/H9014=־=link
+Gen.1.25-18,,,,,,׃,טוֹב,,HVqp3ms,H2896a=טוֹב=pleasant/H9016=׃=verseEnd
+Gen.1.26-01,,,,,,יֹּאמֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H0559=אָמַר=to say
+Gen.1.26-02,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.26-03,,,,,,,נַעֲשֶׂה,,HVqi1cp,H6213a=עָשָׂה=to make_§1_make(OBJECT)
+Gen.1.26-04,,,,,,,אָדָם,,HNcbsa,H0120=אָדָם=man_§_human
+Gen.1.26-05,,,,,נוּ,צַלְמֵ,בְּ,,HR/Ncbsc/Sp1bp,H9003=ב=in/H6754=צֶ֫לֶם=image/H9025=Pp1c=our
+Gen.1.26-06,,,,,נוּ,דְמוּתֵ,כִּ,,HR/Ncfsc/Sp1bp,H9004=כ=like/H1823=דְּמוּת=likeness/H9025=Pp1c=our
+Gen.1.26-07,,,,,,יִרְדּוּ,וְ,,HC/Vqu3mp,H9002=ו=and/H7287a=רָדָה=to rule
+Gen.1.26-08,,,,,,דְגַת,בִ,,HR/Ncfsc,H9003=ב=in/H1710=דָּגָה=fish
+Gen.1.26-09,,,,,,יָּ֜ם,הָ,,HTd/Ncbsa,H9009=ה=the/H3220=יָם=sea_§1_sea
+Gen.1.26-10,,,,,עוֹף,בְ,וּ,,HC/R/Ncbsc,H9002=ו=and/H9003=ב=in/H5775=עוֹף=bird
+Gen.1.26-11,,,,,,שָּׁמַ֗יִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven
+Gen.1.26-12,,,,,בְּהֵמָה,בַ,וּ,,HC/Rd/Ncfsa,H9002=ו=and/H9003=ב=in/H0929=בְּהֵמָה=animal
+Gen.1.26-13,,,,־,כָל,בְ,וּ,,HC/R/Ncbsc,H9002=ו=and/H9003=ב=in/H3605=כֹּל=all/H9014=־=link
+Gen.1.26-14,,,,,,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet
+Gen.1.26-15,,,,־,כָל,בְ,וּ,,HC/R/Ncbsc,H9002=ו=and/H9003=ב=in/H3605=כֹּל=all/H9014=־=link
+Gen.1.26-16,,,,,,רֶמֶשׂ,הָ,,HTd/Ncbsa,H9009=ה=the/H7431=רֶ֫מֶשׂ=creeping
+Gen.1.26-17,,,,,,רֹמֵשׂ,הָ,,HTd/Vqrmsa,H9009=ה=the/H7430=רָמַשׂ=to creep
+Gen.1.26-18,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.1.26-19,,,,,׃,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§1_soil/H9016=׃=verseEnd
+Gen.1.27-01,,,,,,יִּבְרָא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1254a=בָּרָא=to create
+Gen.1.27-02,,,,,,׀,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1/H9015=׀=separate
+Gen.1.27-03,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.1.27-04,,,,,,אָדָם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§_human
+Gen.1.27-05,,,,,וֹ,צַלְמ,בְּ,,HR/Ncbsc/Sp3ms,H9003=ב=in/H6754=צֶ֫לֶם=image/H9023=Ps3m=his
+Gen.1.27-06,,,,,,צֶלֶם,בְּ,,HR/Ncbsc,H9003=ב=in/H6754=צֶ֫לֶם=image
+Gen.1.27-07,,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.27-08,,,,,,,בָּרָא,,HVqp3ms,H1254a=בָּרָא=to create
+Gen.1.27-09,,,,,,וֹ,אֹת,,HTo/Sp3ms,H0853=אֵת=obj./H9033=Os3m=him
+Gen.1.27-10,,,,,,,זָכָר,,HAabsa,H2145=זָכָר=male
+Gen.1.27-11,,,,,,נְקֵבָה,וּ,,HC/Aafsa,H9002=ו=and/H5347=נְקֵבָה=female
+Gen.1.27-12,,,,,,,בָּרָא,,HVqp3ms,H1254a=בָּרָא=to create
+Gen.1.27-13,,,,,׃,ם,אֹתָ,,HTo/Sp3mp,H0853=אֵת=obj./H9038=Op3m=them/H9016=׃=verseEnd
+Gen.1.28-01,,,,,,יְבָרֶךְ,וַ,,Hc/Vpw3ms,H9001=ו=seq/H1288=בָּרַךְ=to bless
+Gen.1.28-02,,,,,,ם,אֹתָ,,HTo/Sp3mp,H0853=אֵת=obj./H9038=Op3m=them
+Gen.1.28-03,,,,,,,אֱלֹהִים֒,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.28-04,,,,,,יֹּאמֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H0559=אָמַר=to say
+Gen.1.28-05,,,,,,הֶ֜ם,לָ,,HRd/Sp3mp,H9005=ל=to/H9038=Op3m=them
+Gen.1.28-06,,,,,,,אֱלֹהִ֗ים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.28-07,,,,,,,פְּרוּ,,HVqv2mp,H6509=פָּרָה=be fruitful
+Gen.1.28-08,,,,,,רְבוּ,וּ,,HC/Vqv2mp,H9002=ו=and/H7235a=רָבָה=to multiply
+Gen.1.28-09,,,,,,מִלְאוּ,וּ,,HC/Vqv2mp,H9002=ו=and/H4390=מָלֵא=to fill
+Gen.1.28-10,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.1.28-11,,,,,,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet
+Gen.1.28-12,,,,,הָ,כִבְשֻׁ,וְ,,HC/Vqv2mp/Sp3fs,H9002=ו=and/H3533=כָּבַשׁ=to subdue/H9034=Os3f=her
+Gen.1.28-13,,,,,,רְד֞וּ,וּ,,HC/Vqv2mp,H9002=ו=and/H7287a=רָדָה=to rule
+Gen.1.28-14,,,,,,דְגַת,בִּ,,HR/Ncfsc,H9003=ב=in/H1710=דָּגָה=fish
+Gen.1.28-15,,,,,,יָּם,הָ,,HTd/Ncbsa,H9009=ה=the/H3220=יָם=sea_§1_sea
+Gen.1.28-16,,,,,עוֹף,בְ,וּ,,HC/R/Ncbsc,H9002=ו=and/H9003=ב=in/H5775=עוֹף=bird
+Gen.1.28-17,,,,,,שָּׁמַיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven
+Gen.1.28-18,,,,־,כָל,בְ,וּ,,HC/R/Ncbsc,H9002=ו=and/H9003=ב=in/H3605=כֹּל=all/H9014=־=link
+Gen.1.28-19,,,,,,,חַיָּה,,HNcfsa,H2416a=חַי=alive
+Gen.1.28-20,,,,,,רֹמֶשֶׂת,הָ,,HTd/Vqrfsa,H9009=ה=the/H7430=רָמַשׂ=to creep
+Gen.1.28-21,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.1.28-22,,,,,׃,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§1_soil/H9016=׃=verseEnd
+Gen.1.29-01,,,,,,יֹּאמֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H0559=אָמַר=to say
+Gen.1.29-02,,,,,,,אֱלֹהִ֗ים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.29-03,,,,,,,הִנֵּה,,HTj,H2009=הִנֵּה=behold
+Gen.1.29-04,,,,,,,נָתַתִּי,,HVqp1cs,H5414=נָתַן=to give_§1_give|deliver|send|produce
+Gen.1.29-05,,,,,,כֶ֜ם,לָ,,HRd/Sp2mp,H9005=ל=to/H9036=Op2m=you
+Gen.1.29-06,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.1.29-07,,,,,,־,כָּל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.1.29-08,,,,,,׀,עֵשֶׂב,,HNcbsa,H6212=עֵ֫שֶׂב=vegetation/H9015=׀=separate
+Gen.1.29-09,,,,,,,זֹרֵעַ,,HVqrmsa,H2232=זָרַע=to sow
+Gen.1.29-10,,,,,,,זֶ֗רַע,,HNcbsa,H2233=זֶ֫רַע=seed_§1_seed|sowing
+Gen.1.29-11,,,,,,,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which
+Gen.1.29-12,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.1.29-13,,,,,,,פְּנֵי,,HNcmpc,H6440=פָּנֶה=face_§4_surface|land
+Gen.1.29-14,,,,,,־,כָל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.1.29-15,,,,,,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet
+Gen.1.29-16,,,,,־,אֶת,וְ,,HC/To,H9002=ו=and/H0853=אֵת=obj./H9014=־=link
+Gen.1.29-17,,,,,,־,כָּל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.1.29-18,,,,,,עֵץ,הָ,,HTd/Ncbsa,H9009=ה=the/H6086=עֵץ=tree_§2_tree
+Gen.1.29-19,,,,,,־,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which/H9014=־=link
+Gen.1.29-20,,,,,,וֹ,בּ,,HRd/Sp3ms,H9003=ב=in/H9033=Os3m=him
+Gen.1.29-21,,,,,,־,פְרִי,,HNcbsc,H6529=פְּרִי=fruit/H9014=־=link
+Gen.1.29-22,,,,,,,עֵץ,,HNcbsa,H6086=עֵץ=tree_§2_tree
+Gen.1.29-23,,,,,,,זֹרֵעַ,,HVqrmsa,H2232=זָרַע=to sow
+Gen.1.29-24,,,,,,,זָרַע,,HNcbsa,H2233=זֶ֫רַע=seed_§1_seed|sowing
+Gen.1.29-25,,,,,,כֶם,לָ,,HRd/Sp2mp,H9005=ל=to/H9036=Op2m=you
+Gen.1.29-26,,,,,,,יִהְיֶה,,HVqi3ms,H1961=הָיָה=to be
+Gen.1.29-27,,,,,׃,אָכְלָה,לְ,,HR/Ncfsa,H9005=ל=to/H0402=אׇכְלָה=food/H9016=׃=verseEnd
+Gen.1.30-01,,,,־,כָל,לְ,וּ,,HC/R/Ncbsc,H9002=ו=and/H9005=ל=to/H3605=כֹּל=all/H9014=־=link
+Gen.1.30-02,,,,,,,חַיַּת,,HNcfsc,H2416c=חַיָּה=living thing
+Gen.1.30-03,,,,,,אָרֶץ,הָ֠,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§1_soil
+Gen.1.30-04,,,,־,כָל,לְ,וּ,,HC/R/Ncbsc,H9002=ו=and/H9005=ל=to/H3605=כֹּל=all/H9014=־=link
+Gen.1.30-05,,,,,,,עוֹף,,HNcbsc,H5775=עוֹף=bird
+Gen.1.30-06,,,,,,שָּׁמַ֜יִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven
+Gen.1.30-07,,,,׀,כֹל,לְ,וּ,,HC/R/Ncbsc,H9002=ו=and/H9005=ל=to/H3605=כֹּל=all/H9015=׀=separate
+Gen.1.30-08,,,,,,,רוֹמֵשׂ,,HVqrmsa,H7430=רָמַשׂ=to creep
+Gen.1.30-09,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.1.30-10,,,,,,אָ֗רֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§1_soil
+Gen.1.30-11,,,,,,־,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which/H9014=־=link
+Gen.1.30-12,,,,,,וֹ,בּ,,HRd/Sp3ms,H9003=ב=in/H9033=Os3m=him
+Gen.1.30-13,,,,,,,נֶפֶשׁ,,HNcbsa,H5315=נֶ֫פֶשׁ=soul_§2_life|breath
+Gen.1.30-14,,,,,,,חַיָּה,,HAafsa,H2416a=חַי=alive
+Gen.1.30-15,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.1.30-16,,,,,,־,כָּל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.1.30-17,,,,,,,יֶרֶק,,HNcbsa,H3418=יֶ֫רֶק=green
+Gen.1.30-18,,,,,,,עֵשֶׂב,,HNcbsa,H6212=עֵ֫שֶׂב=vegetation
+Gen.1.30-19,,,,,,אָכְלָה,לְ,,HR/Ncfsa,H9005=ל=to/H0402=אׇכְלָה=food
+Gen.1.30-20,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.30-21,,,,,,׃,כֵן,,HD,H3651c=כֵּן=so/H9016=׃=verseEnd
+Gen.1.31-01,,,,,,יַּרְא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7200=רָאָה=to see_§1_see|show
+Gen.1.31-02,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.1.31-03,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.1.31-04,,,,,,־,כָּל,,HNcbsa,H3605=כֹּל=all/H9014=־=link
+Gen.1.31-05,,,,,,,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which
+Gen.1.31-06,,,,,,,עָשָׂה,,HVqp3ms,H6213a=עָשָׂה=to make_§1_make(OBJECT)
+Gen.1.31-07,,,,,־,הִנֵּה,וְ,,HC/Tj,H9002=ו=and/H2009=הִנֵּה=behold/H9014=־=link
+Gen.1.31-08,,,,,,,טוֹב,,HAabsa,H2896a=טוֹב=pleasant
+Gen.1.31-09,,,,,,,מְאד,,HNcbsa,H3966=מְאֹד=much
+Gen.1.31-10,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.31-11,,,,,,,עֶרֶב,,HNcbsa,H6153=עֶ֫רֶב=evening
+Gen.1.31-12,,,,,־,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be/H9014=־=link
+Gen.1.31-13,,,,,,,בֹקֶר,,HNcbsa,H1242=בֹּ֫קֶר=morning
+Gen.1.31-14,,,,,,,יוֹם,,HNcbsc,H3117=יוֹם=day_§1_day
+Gen.1.31-15,,,,פ,׃,שִּׁשִּׁי,הָ,,HTd/Aobsa,H9009=ה=the/H8345=שִׁשִּׁי=sixth/H9016=׃=verseEnd/H9017=פ=para
+Gen.2.1-01,,,,,,יְכֻלּוּ,וַ,,Hc/VPw3mp,H9001=ו=seq/H3615=כָּלָה=to end_§1_finish
+Gen.2.1-02,,,,,,שָּׁמַיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven
+Gen.2.1-03,,,,,אָרֶץ,הָ,וְ,,HC/Td/Ncbsa,H9002=ו=and/H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet
+Gen.2.1-04,,,,,־,כָל,וְ,,HC/Ncbsc,H9002=ו=and/H3605=כֹּל=all/H9014=־=link
+Gen.2.1-05,,,,,׃,ם,צְבָאָ,,HNcbsc/Sp3mp,H6635a=צָבָא=army_§1_army/H9028=Pp3m=their/H9016=׃=verseEnd
+Gen.2.2-01,,,,,,יְכַל,וַ,,Hc/Vpw3ms,H9001=ו=seq/H3615=כָּלָה=to end_§1_finish
+Gen.2.2-02,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.2.2-03,,,,,,יּוֹם,בַּ,,HRd/Ncbsa,H9003=ב=in/H3117=יוֹם=day_§1_day
+Gen.2.2-04,,,,,,שְּׁבִיעִי,הָ,,HTd/Aobsa,H9009=ה=the/H7637=שְׁבִיעִי=seventh
+Gen.2.2-05,,,,,,וֹ,מְלַאכְתּ,,HNcfsc/Sp3ms,H4399=מְלָאכָה=work/H9023=Ps3m=his
+Gen.2.2-06,,,,,,,אֲשֶׁר,,HC,H0834a=אֲשֶׁר=which
+Gen.2.2-07,,,,,,,עָשָׂה,,HVqp3ms,H6213a=עָשָׂה=to make_§2_do|perform
+Gen.2.2-08,,,,,,יִּשְׁבֹּת,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7673a=שָׁבַת=to cease
+Gen.2.2-09,,,,,,יּוֹם,בַּ,,HRd/Ncbsa,H9003=ב=in/H3117=יוֹם=day_§1_day
+Gen.2.2-10,,,,,,שְּׁבִיעִי,הָ,,HTd/Aobsa,H9009=ה=the/H7637=שְׁבִיעִי=seventh
+Gen.2.2-11,,,,,־,כָּל,מִ,,HR/Ncbsc,H9006=מ=from/H3605=כֹּל=all/H9014=־=link
+Gen.2.2-12,,,,,,וֹ,מְלַאכְתּ,,HNcfsc/Sp3ms,H4399=מְלָאכָה=work/H9023=Ps3m=his
+Gen.2.2-13,,,,,,,אֲשֶׁר,,HC,H0834a=אֲשֶׁר=which
+Gen.2.2-14,,,,,,׃,עָשָׂה,,HVqp3ms,H6213a=עָשָׂה=to make_§2_do|perform/H9016=׃=verseEnd
+Gen.2.3-01,,,,,,יְבָרֶךְ,וַ,,Hc/Vpw3ms,H9001=ו=seq/H1288=בָּרַךְ=to bless
+Gen.2.3-02,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.2.3-03,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.2.3-04,,,,,,,יוֹם,,HNcbsc,H3117=יוֹם=day_§1_day
+Gen.2.3-05,,,,,,שְּׁבִיעִי,הָ,,HTd/Aobsa,H9009=ה=the/H7637=שְׁבִיעִי=seventh
+Gen.2.3-06,,,,,,יְקַדֵּשׁ,וַ,,Hc/Vpw3ms,H9001=ו=seq/H6942=קָדַשׁ=to consecrate_§1_consecate|sanctify
+Gen.2.3-07,,,,,,וֹ,אֹת,,HTo/Sp3ms,H0853=אֵת=obj./H9033=Os3m=him
+Gen.2.3-08,,,,,,,כִּי,,HTc,H3588a=כִּי=for
+Gen.2.3-09,,,,,,וֹ,ב,,HRd/Sp3ms,H9003=ב=in/H9033=Os3m=him
+Gen.2.3-10,,,,,,,שָׁבַת,,HVqp3ms,H7673a=שָׁבַת=to cease
+Gen.2.3-11,,,,,־,כָּל,מִ,,HR/Ncbsc,H9006=מ=from/H3605=כֹּל=all/H9014=־=link
+Gen.2.3-12,,,,,,וֹ,מְלַאכְתּ,,HNcfsc/Sp3ms,H4399=מְלָאכָה=work/H9023=Ps3m=his
+Gen.2.3-13,,,,,,־,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which/H9014=־=link
+Gen.2.3-14,,,,,,,בָּרָא,,HVqp3ms,H1254a=בָּרָא=to create
+Gen.2.3-15,,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.2.3-16,,,,פ,׃,עֲשׂוֹת,לַ,,HR/Vqcc,H9005=ל=to/H6213a=עָשָׂה=to make_§2_do|perform/H9016=׃=verseEnd/H9017=פ=para
+Gen.2.4-01,,,,,,,אֵלֶּה,,HTm,H0428=אֵ֫לֶּה=these
+Gen.2.4-02,,,,,,,תוֹלְדוֹת,,HNcfpc,H8435=תּוֹלֵדוֹת=generation
+Gen.2.4-03,,,,,,שָּׁמַיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven
+Gen.2.4-04,,,,,אָרֶץ,הָ,וְ,,HC/Td/Ncbsa,H9002=ו=and/H9009=ה=the/H0776=אֶ֫רֶץ=land_§3_planet
+Gen.2.4-05,,,,,ם,הִבָּרְאָ,בְּ,,HR/VNcc/Sp3mp,H9003=ב=in/H1254a=בָּרָא=to create/H9048=Sp3m=they
+Gen.2.4-06,,,,,,י֗וֹם,בְּ,,HR/Ncbsc,H9003=ב=in/H3117=יוֹם=day_§1_day
+Gen.2.4-07,,,,,,,עֲשׂוֹת,,HVqcc,H6213a=עָשָׂה=to make_§1_make(OBJECT)
+Gen.2.4-08,,,,,,,יְהוָה,,HNpt,H3068=יהוה=YHWH|Yahweh_§LORD|God@Gen.1.1
+Gen.2.4-09,,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.2.4-10,,,,,,,אֶרֶץ,,HNcbsa,H0776=אֶ֫רֶץ=land_§3_planet
+Gen.2.4-11,,,,,׃,שָׁמָיִם,וְ,,HC/Ncmpa,H9002=ו=and/H8064=שָׁמַיִם=heaven/H9016=׃=verseEnd
+Gen.2.5-01,,,,,׀,כֹל,וְ,,HC/Ncbsc,H9002=ו=and/H3605=כֹּל=all/H9015=׀=separate
+Gen.2.5-02,,,,,,,שִׂיחַ,,HNcbsc,H7880=שִׂיחַ=bush
+Gen.2.5-03,,,,,,שָּׂדֶ֗ה,הָ,,HTd/Ncbsa,H9009=ה=the/H7704b=שָׂדֶה=field_§2_country|field
+Gen.2.5-04,,,,,,,טֶ֚רֶם,,HNcbsa,H2962=טֶ֫רֶם=before
+Gen.2.5-05,,,,,,,יִהְיֶה,,HVqi3ms,H1961=הָיָה=to be
+Gen.2.5-06,,,,,,אָרֶץ,בָ,,HRd/Ncbsa,H9003=ב=in/H0776=אֶ֫רֶץ=land_§2_country|field
+Gen.2.5-07,,,,,־,כָל,וְ,,HC/Ncbsc,H9002=ו=and/H3605=כֹּל=all/H9014=־=link
+Gen.2.5-08,,,,,,,עֵשֶׂב,,HNcbsc,H6212=עֵ֫שֶׂב=vegetation
+Gen.2.5-09,,,,,,שָּׂדֶה,הָ,,HTd/Ncbsa,H9009=ה=the/H7704b=שָׂדֶה=field_§2_country|field
+Gen.2.5-10,,,,,,,טֶרֶם,,HNcbsa,H2962=טֶ֫רֶם=before
+Gen.2.5-11,,,,,,,יִצְמָח,,HVqi3ms,H6779=צָמַח=to spring
+Gen.2.5-12,,,,,,,כִּי,,HTc,H3588a=כִּי=for
+Gen.2.5-13,,,,,,,לֹא,,HTn,H3808=לֹא=not
+Gen.2.5-14,,,,,,,הִמְטִ֜יר,,HVhp3ms,H4305=מָטַר=to rain
+Gen.2.5-15,,,,,,,יְהוָה,,HNpt,H3068=יהוה=YHWH|Yahweh_§LORD|God@Gen.1.1
+Gen.2.5-16,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.2.5-17,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.2.5-18,,,,,,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§2_country|field
+Gen.2.5-19,,,,,,אָדָם,וְ,,HC/Ncbsa,H9002=ו=and/H0120=אָדָם=man_§_human
+Gen.2.5-20,,,,,,,אַיִן,,HNcbsa,H0369=אַ֫יִן=nothing
+Gen.2.5-21,,,,,,עֲבֹד,לַ,,HR/Vqcc,H9005=ל=to/H5647=עָבַד=to serve_§3_labour|do(work)
+Gen.2.5-22,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.2.5-23,,,,,׃,אֲדָמָה,הָ,,HTd/Ncfsa,H9009=ה=the/H0127=אֲדָמָה=land_§1_soil/H9016=׃=verseEnd
+Gen.2.6-01,,,,,,אֵד,וְ,,HC/Ncbsa,H9002=ו=and/H0108=אֵד=mist
+Gen.2.6-02,,,,,,,יַעֲלֶה,,HVqi3ms,H5927=עָלָה=to ascend_§1_rise|go
+Gen.2.6-03,,,,,,־,מִן,,HR,H4480a=מִן־=from/H9014=־=link
+Gen.2.6-04,,,,,,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§2_country|field
+Gen.2.6-05,,,,,,הִשְׁקָה,וְ,,Hc/Vhq3ms,H9001=ו=seq/H8248=שָׁקָה=to water_§1_watering(ANIMALS|PLANTS)
+Gen.2.6-06,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.2.6-07,,,,,,־,כָּל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.2.6-08,,,,,,־,פְּנֵי,,HNcmpc,H6440=פָּנֶה=face_§4_surface|land/H9014=־=link
+Gen.2.6-09,,,,,׃,אֲדָמָה,הָ,,HTd/Ncfsa,H9009=ה=the/H0127=אֲדָמָה=land_§1_soil/H9016=׃=verseEnd
+Gen.2.7-01,,,,,,יִּיצֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H3335=יָצַר=to form_§1_formed
+Gen.2.7-02,,,,,,,יְהוָה,,HNpt,H3068=יהוה=YHWH|Yahweh_§LORD|God@Gen.1.1
+Gen.2.7-03,,,,,,,אֱלֹהִ֜ים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.2.7-04,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.2.7-05,,,,,,אָדָ֗ם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.7-06,,,,,,,עָפָר,,HNcbsa,H6083=עָפָר=dust
+Gen.2.7-07,,,,,,־,מִן,,HR,H4480a=מִן־=from/H9014=־=link
+Gen.2.7-08,,,,,,אֲדָמָה,הָ,,HTd/Ncfsa,H9009=ה=the/H0127=אֲדָמָה=land_§1_soil
+Gen.2.7-09,,,,,,יִּפַּח,וַ,,Hc/Vqw3ms,H9001=ו=seq/H5301=נָפַח=to breathe
+Gen.2.7-10,,,,,ו,אַפָּי,בְּ,,HR/Ncbdc/Sp3ms,H9003=ב=in/H0639=אַף=anger_§2_nose/H9023=Ps3m=his
+Gen.2.7-11,,,,,,,נִשְׁמַת,,HNcfsc,H5397=נְשָׁמָה=breath
+Gen.2.7-12,,,,,,,חַיּים,,HNcmpa,H2416e=חַיִּים=life
+Gen.2.7-13,,,,,,יְהִי,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1961=הָיָה=to be
+Gen.2.7-14,,,,,,אָדָם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.7-15,,,,,,נֶפֶשׁ,לְ,,HR/Ncbsa,H9005=ל=to/H5315=נֶ֫פֶשׁ=soul_§5_animal
+Gen.2.7-16,,,,,,׃,חַיָּה,,HAafsa,H2416a=חַי=alive/H9016=׃=verseEnd
+Gen.2.8-01,,,,,,יִּטַּ֞ע,וַ,,Hc/Vqw3ms,H9001=ו=seq/H5193=נָטַע=to plant
+Gen.2.8-02,,,,,,,יְהוָה,,HNpt,H3068=יהוה=YHWH|Yahweh_§LORD|God@Gen.1.1
+Gen.2.8-03,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.2.8-04,,,,,,־,גַּן,,HNcbsa,H1588=גַּן=garden_§_garden/H9014=־=link
+Gen.2.8-05,,,,,,עֵדֶן,בְ,,HR/Npl,H9003=ב=in/H5731b=עֵ֫דֶן=Eden_§Eden@Gen.2.8
+Gen.2.8-06,,,,,,קֶּדֶם,מִ,,HR/Ncbsa,H9006=מ=from/H6924a=קֶ֫דֶם=front_§1_east
+Gen.2.8-07,,,,,,יָּשֶׂם,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7760a=שׂוּם=to set_§2_put|give
+Gen.2.8-08,,,,,,,שָׁם,,HD,H8033=שָׁם=there
+Gen.2.8-09,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.2.8-10,,,,,,אָדָם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.8-11,,,,,,,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which
+Gen.2.8-12,,,,,,׃,יָצָר,,HVqp3ms,H3335=יָצַר=to form_§1_formed/H9016=׃=verseEnd
+Gen.2.9-01,,,,,,יַּצְמַ֞ח,וַ,,Hc/Vhw3ms,H9001=ו=seq/H6779=צָמַח=to spring
+Gen.2.9-02,,,,,,,יְהוָה,,HNpt,H3068=יהוה=YHWH|Yahweh_§LORD|God@Gen.1.1
+Gen.2.9-03,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.2.9-04,,,,,,־,מִן,,HR,H4480a=מִן־=from/H9014=־=link
+Gen.2.9-05,,,,,,אֲדָמָה,הָ,,HTd/Ncfsa,H9009=ה=the/H0127=אֲדָמָה=land_§1_soil
+Gen.2.9-06,,,,,,־,כָּל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.2.9-07,,,,,,,עֵץ,,HNcbsa,H6086=עֵץ=tree_§2_tree
+Gen.2.9-08,,,,,,,נֶחְמָד,,HVNrmsa,H2530a=חָמַד=to desire
+Gen.2.9-09,,,,,,מַרְאֶה,לְ,,HR/Ncbsa,H9005=ל=to/H4758=מַרְאֶה=appearance
+Gen.2.9-10,,,,,,טוֹב,וְ,,HC/Aabsa,H9002=ו=and/H2896a=טוֹב=pleasant
+Gen.2.9-11,,,,,,מַאֲכָל,לְ,,HR/Ncbsa,H9005=ל=to/H3978=מַאֲכָל=food
+Gen.2.9-12,,,,,,עֵץ,וְ,,HC/Ncbsc,H9002=ו=and/H6086=עֵץ=tree_§2_tree
+Gen.2.9-13,,,,,,חַיִּים,הָ,,HTd/Ncmpa,H9009=ה=the/H2416e=חַיִּים=life
+Gen.2.9-14,,,,,,תוֹךְ,בְּ,,HR/Ncbsc,H9003=ב=in/H8432=תָּ֫וֶךְ=midst
+Gen.2.9-15,,,,,,גָּן,הָ,,HTd/Ncbsa,H9009=ה=the/H1588=גַּן=garden_§_garden
+Gen.2.9-16,,,,,,עץ,וְ,,HC/Ncbsc,H9002=ו=and/H6086=עֵץ=tree_§2_tree
+Gen.2.9-17,,,,,,דַּעַת,הָ,,HTd/Ncfsc,H9009=ה=the/H1847=דַּ֫עַת=knowledge
+Gen.2.9-18,,,,,,,טוֹב,,HAabsa,H2896b=טוֹב=good
+Gen.2.9-19,,,,,׃,רָע,וָ,,HC/Aabsa,H9002=ו=and/H7451b=רַע=evil/H9016=׃=verseEnd
+Gen.2.10-01,,,,,,נָהָר,וְ,,HC/Ncbsa,H9002=ו=and/H5104=נָהָר=river
+^([^,,,,,,,,,,
+]*)-\d+\.[^,,,,,,,,,,
+Gen.2.10-02,,,,,,,יֹצֵא,,HVqrmsa,H3318=יָצָא=to come out_§6_issue|flow|sprouting|leaping(water|fire|OBJECTS)
+Gen.2.10-03,,,,,,עֵדֶן,מֵ,,HR/Npl,H9006=מ=from/H5731b=עֵ֫דֶן=Eden_§Eden@Gen.2.8
+Gen.2.10-04,,,,,,הַשְׁקוֹת,לְ,,HR/Vhcc,H9005=ל=to/H8248=שָׁקָה=to water_§1_watering(ANIMALS|PLANTS)
+Gen.2.10-05,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.2.10-06,,,,,,גָּן,הָ,,HTd/Ncbsa,H9009=ה=the/H1588=גַּן=garden_§_garden
+Gen.2.10-07,,,,,שָּׁם,מִ,וּ,,HC/R/D,H9002=ו=and/H9006=מ=from/H8033=שָׁם=there
+Gen.2.10-08,,,,,,,יִפָּרֵד,,HVNi3ms,H6504=פָּרַד=to separate
+Gen.2.10-09,,,,,,הָיָה,וְ,,Hc/Vqq3ms,H9001=ו=seq/H1961=הָיָה=to be
+Gen.2.10-10,,,,,,אַרְבָּעָה,לְ,,HR/Acfsa,H9005=ל=to/H0702=אַרְבַּע=four
+Gen.2.10-11,,,,,,׃,רָאשִׁים,,HNcmpa,H7218a=רֹאשׁ=head_§4_first|start/H9016=׃=verseEnd
+Gen.2.11-01,,,,,,,שֵׁם,,HNcbsc,H8034=שֵׁם=name
+Gen.2.11-02,,,,,,אֶחָד,הָ,,HTd/Acbsa,H9009=ה=the/H0259=אֶחָד=one
+Gen.2.11-03,,,,,,,פִּישׁוֹן,,HNpl,H6376=פִּישׁוֹן=Pishon_§Pishon@Gen.2.11
+Gen.2.11-04,,,,,,,הוּא,,HPp3ms,H1931=הוּא=he|she|it
+Gen.2.11-05,,,,,,סֹּבֵ֗ב,הָ,,HTd/Vqrmsa,H9009=ה=the/H5437=סָבַב=to turn_§1_turn|bring_around
+Gen.2.11-06,,,,,,,אֵ֚ת,,HTo,H0853=אֵת=obj.
+Gen.2.11-07,,,,,,־,כָּל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.2.11-08,,,,,,,אֶרֶץ,,HNcbsc,H0776=אֶ֫רֶץ=land_§2_country|field
+Gen.2.11-09,,,,,,חֲוִילָה,הָ,,HTd/Npl,H9009=ה=the/H2341=חֲוִילָה=Havilah_§Havilah@Gen.2.11
+Gen.2.11-10,,,,,,־,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which/H9014=־=link
+Gen.2.11-11,,,,,,,שָׁם,,HD,H8033=שָׁם=there
+Gen.2.11-12,,,,,׃,זָּהָב,הָ,,HTd/Ncbsa,H9009=ה=the/H2091=זָהָב=gold/H9016=׃=verseEnd
+Gen.2.12-01,,,,,,זֲהַב,וּ,,HC/Ncbsc,H9002=ו=and/H2091=זָהָב=gold
+Gen.2.12-02,,,,,,אָרֶץ,הָ,,HTd/Ncbsa,H9009=ה=the/H0776=אֶ֫רֶץ=land_§2_country|field
+Gen.2.12-03,,,,,,הוא,הָ,,HTd/Pp3fs,H9009=ה=the/H1931=הוּא=he|she|it
+Gen.2.12-04,,,,,,,טוֹב,,HAabsa,H2896a=טוֹב=pleasant
+Gen.2.12-05,,,,,,,שָׁם,,HD,H8033=שָׁם=there
+Gen.2.12-06,,,,,,בְּדֹלַח,הָ,,HTd/Ncbsa,H9009=ה=the/H0916=בְּדֹ֫לַח=bdellium
+Gen.2.12-07,,,,,,אֶבֶן,וְ,,HC/Ncbsc,H9002=ו=and/H0068=אֶ֫בֶן=stone_§_stone
+Gen.2.12-08,,,,,׃,שֹּׁהַם,הָ,,HTd/Ncbsa,H9009=ה=the/H7718=שֹׁ֫הַם=onyx/H9016=׃=verseEnd
+Gen.2.13-01,,,,,־,שֵׁם,וְ,,HC/Ncbsc,H9002=ו=and/H8034=שֵׁם=name/H9014=־=link
+Gen.2.13-02,,,,,,נָּהָר,הָ,,HTd/Ncbsa,H9009=ה=the/H5104=נָהָר=river
+Gen.2.13-03,,,,,,שֵּׁני,הָ,,HTd/Aobsa,H9009=ה=the/H8145=שֵׁנִי=second
+Gen.2.13-04,,,,,,,גִּיחוֹן,,HNpl,H1521=גִּיחוֹן=Gihon_§Gihon@Gen.2.13
+Gen.2.13-05,,,,,,,הוּא,,HPp3ms,H1931=הוּא=he|she|it
+Gen.2.13-06,,,,,,סּוֹבֵב,הָ,,HTd/Vqrmsa,H9009=ה=the/H5437=סָבַב=to turn_§1_turn|bring_around
+Gen.2.13-07,,,,,,,אֵת,,HTo,H0853=אֵת=obj.
+Gen.2.13-08,,,,,,־,כָּל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.2.13-09,,,,,,,אֶרֶץ,,HNcbsc,H0776=אֶ֫רֶץ=land_§2_country|field
+Gen.2.13-10,,,,,,׃,כּוּשׁ,,HNpl,H3568a=כּוּשׁ=Cush_§Cush@Gen.2.13/H9016=׃=verseEnd
+Gen.2.14-01,,,,,,שֵׁם,וְ,,HC/Ncbsc,H9002=ו=and/H8034=שֵׁם=name
+Gen.2.14-02,,,,,,נָּהָר,הָ,,HTd/Ncbsa,H9009=ה=the/H5104=נָהָר=river
+Gen.2.14-03,,,,,,שְּׁלִישִׁי,הָ,,HTd/Aobsa,H9009=ה=the/H7992=שְׁלִישִׁי=third
+Gen.2.14-04,,,,,,,חִדּקֶל,,HNpl,H2313=חִדֶּ֫קֶל=Tigris_§Tigris@Gen.2.14
+Gen.2.14-05,,,,,,,הוּא,,HPp3ms,H1931=הוּא=he|she|it
+Gen.2.14-06,,,,,,הֹלֵךְ,הָ,,HTd/Vqrmsa,H9009=ה=the/H1980=הָלַךְ=to go_§1_walk|move
+Gen.2.14-07,,,,,,,קִדְמַת,,HNcfsc,H6926=קִדְמָה=east
+Gen.2.14-08,,,,,,,אַשּׁוּר,,HNpl,H0804=אַשּׁוּר=Asshur_§Assyria@Gen.2.14
+Gen.2.14-09,,,,,נָּהָר,הָ,וְ,,HC/Td/Ncbsa,H9002=ו=and/H9009=ה=the/H5104=נָהָר=river
+Gen.2.14-10,,,,,,רְבִיעי,הָ,,HTd/Aobsa,H9009=ה=the/H7243=רְבִיעִי=fourth
+Gen.2.14-11,,,,,,,הוּא,,HPp3ms,H1931=הוּא=he|she|it
+Gen.2.14-12,,,,,,׃,פְרָת,,HNpl,H6578=פְּרָת=Euphrates_§Euphrates@Gen.2.14/H9016=׃=verseEnd
+Gen.2.15-01,,,,,,יִּקַּח,וַ,,Hc/Vqw3ms,H9001=ו=seq/H3947=לָקַח=to take_§1_take
+Gen.2.15-02,,,,,,,יְהוָה,,HNpt,H3068=יהוה=YHWH|Yahweh_§LORD|God@Gen.1.1
+Gen.2.15-03,,,,,,,אֱלֹהים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.2.15-04,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.2.15-05,,,,,,אָדָם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.15-06,,,,,הוּ,יַּנִּחֵ,וַ,,Hc/Vhw3ms/Sp3ms,H9001=ו=seq/H5117=נוּחַ=to rest/H9033=Os3m=him
+Gen.2.15-07,,,,,־,גַן,בְ,,HR/Ncbsc,H9003=ב=in/H1588=גַּן=garden_§_garden/H9014=־=link
+Gen.2.15-08,,,,,,,עֵדֶן,,HNpl,H5731b=עֵ֫דֶן=Eden_§Eden@Gen.2.8
+Gen.2.15-09,,,,,הּ,עָבְדָ,לְ,,HR/Vqcc/Sp3fs,H9005=ל=to/H5647=עָבַד=to serve_§3_labour|do(work)/H9034=Os3f=her
+Gen.2.15-10,,,׃,הּ,שָׁמְרָ,לְ,וּ,,HC/R/Vqcc/Sp3fs,H9002=ו=and/H9005=ל=to/H8104=שָׁמַר=to keep_§2_guard/H9034=Os3f=her/H9016=׃=verseEnd
+Gen.2.16-01,,,,,,יְצַו,וַ,,Hc/Vpw3ms,H9001=ו=seq/H6680=צָוָה=to command
+Gen.2.16-02,,,,,,,יְהוָה,,HNpt,H3068=יהוה=YHWH|Yahweh_§LORD|God@Gen.1.1
+Gen.2.16-03,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.2.16-04,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.2.16-05,,,,,,אָדָם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.16-06,,,,,,אמר,לֵ,,HR/Vqcc,H9005=ל=to/H0559=אָמַר=to say
+Gen.2.16-07,,,,,,כֹּל,מִ,,HR/Ncbsc,H9006=מ=from/H3605=כֹּל=all
+Gen.2.16-08,,,,,,־,עֵץ,,HNcbsc,H6086=עֵץ=tree_§2_tree/H9014=־=link
+Gen.2.16-09,,,,,,גָּן,הָ,,HTd/Ncbsa,H9009=ה=the/H1588=גַּן=garden_§_garden
+Gen.2.16-10,,,,,,,אָכֹל,,HVqaa,H0398=אָכַל=to eat
+Gen.2.16-11,,,,,,׃,תֹּאכֵל,,HVqi2ms,H0398=אָכַל=to eat/H9016=׃=verseEnd
+Gen.2.17-01,,,,,עֵ֗ץ,מֵ,וּ,,HC/R/Ncbsc,H9002=ו=and/H9006=מ=from/H6086=עֵץ=tree_§2_tree
+Gen.2.17-02,,,,,,דַּעַת,הָ,,HTd/Ncfsc,H9009=ה=the/H1847=דַּ֫עַת=knowledge
+Gen.2.17-03,,,,,,,טוֹב,,HAabsa,H2896b=טוֹב=good
+Gen.2.17-04,,,,,,רָע,וָ,,HC/Aabsa,H9002=ו=and/H7451b=רַע=evil
+Gen.2.17-05,,,,,,,לֹא,,HTn,H3808=לֹא=not
+Gen.2.17-06,,,,,,,תֹאכַל,,HVqi2ms,H0398=אָכַל=to eat
+Gen.2.17-07,,,,,,נּוּ,מִמֶּ,,HRd/Sp3ms,H4480a=מִן־=from/H9033=Os3m=him
+Gen.2.17-08,,,,,,,כִּ֗י,,HTc,H3588a=כִּי=for
+Gen.2.17-09,,,,,,יוֹם,בְּ,,HR/Ncbsc,H9003=ב=in/H3117=יוֹם=day_§1_day
+Gen.2.17-10,,,,,,ךָ,אֲכָלְ,,HVqcc/Sp2ms,H0398=אָכַל=to eat/H9041=Ss2m=you
+Gen.2.17-11,,,,,,נּוּ,מִמֶּ,,HRd/Sp3ms,H4480a=מִן־=from/H9033=Os3m=him
+Gen.2.17-12,,,,,,,מוֹת,,HVqaa,H4191=מוּת=to die
+Gen.2.17-13,,,,,,׃,תָּמוּת,,HVqi2ms,H4191=מוּת=to die/H9016=׃=verseEnd
+Gen.2.18-01,,,,,,יֹּאמֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H0559=אָמַר=to say
+Gen.2.18-02,,,,,,,יְהוָה,,HNpt,H3068=יהוה=YHWH|Yahweh_§LORD|God@Gen.1.1
+Gen.2.18-03,,,,,,,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.2.18-04,,,,,,־,לֹא,,HTn,H3808=לֹא=not/H9014=־=link
+Gen.2.18-05,,,,,,,טוֹב,,HAabsa,H2896a=טוֹב=pleasant
+Gen.2.18-06,,,,,,,הֱיוֹת,,HVqcc,H1961=הָיָה=to be
+Gen.2.18-07,,,,,,אָדָם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.18-08,,,,,וֹ,בַדּ,לְ,,HR/Ncbsc/Sp3ms,H9005=ל=to/H0905=בַּד=alone_§2_alone/H9043=Ss3m=he
+Gen.2.18-09,,,,,,־,אֶעֱשֶׂהּ,,HVqi1cs,H6213a=עָשָׂה=to make_§1_make(OBJECT)/H9014=־=link
+Gen.2.18-10,,,,,,וֹ,לּ,,HRd/Sp3ms,H9005=ל=to/H9033=Os3m=him
+Gen.2.18-11,,,,,,,עֵזֶר,,HNcbsa,H5828=עֵ֫זֶר=helper
+Gen.2.18-12,,,,׃,וֹ,נֶגְדּ,כְּ,,HR/Ncbsc/Sp3ms,H9004=כ=like/H5048=נֶ֫גֶד=before/H9033=Os3m=him/H9016=׃=verseEnd
+Gen.2.19-01,,,,,,יִּצֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H3335=יָצַר=to form_§1_formed
+Gen.2.19-02,,,,,,,יְהוָה,,HNpt,H3068=יהוה=YHWH|Yahweh_§LORD|God@Gen.1.1
+Gen.2.19-03,,,,,,,אֱלֹהִ֜ים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1
+Gen.2.19-04,,,,,,־,מִן,,HR,H4480a=מִן־=from/H9014=־=link
+Gen.2.19-05,,,,,,אֲדָמָ֗ה,הָ,,HTd/Ncfsa,H9009=ה=the/H0127=אֲדָמָה=land_§1_soil
+Gen.2.19-06,,,,,,־,כָּל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.2.19-07,,,,,,,חַיַּת,,HNcfsc,H2416c=חַיָּה=living thing
+Gen.2.19-08,,,,,,שָּׂדֶה,הָ,,HTd/Ncbsa,H9009=ה=the/H7704b=שָׂדֶה=field_§2_country|field
+Gen.2.19-09,,,,,,אֵת,וְ,,HC/To,H9002=ו=and/H0853=אֵת=obj.
+Gen.2.19-10,,,,,,־,כָּל,,HNcbsc,H3605=כֹּל=all/H9014=־=link
+Gen.2.19-11,,,,,,,עוֹף,,HNcbsc,H5775=עוֹף=bird
+Gen.2.19-12,,,,,,שָּׁמַיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven
+Gen.2.19-13,,,,,,יָּבֵא,וַ,,Hc/Vhw3ms,H9001=ו=seq/H0935=בּוֹא=to come (in)_§2_bring|take_in
+Gen.2.19-14,,,,,,־,אֶל,,HR,H0413=אֶל=to(wards)/H9014=־=link
+Gen.2.19-15,,,,,,אָדָם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.19-16,,,,,,רְאוֹת,לִ,,HR/Vqcc,H9005=ל=to/H7200=רָאָה=to see_§1_see|show
+Gen.2.19-17,,,,,,־,מַה,,HPi,H4100=מָה=what?/H9014=־=link
+Gen.2.19-18,,,,,,־,יִּקְרָא,,HVqi3ms,H7121=קָרָא=to call_§2_call_by|name/H9014=־=link
+Gen.2.19-19,,,,,,וֹ,ל,,HRd/Sp3ms,H9005=ל=to/H9033=Os3m=him
+Gen.2.19-20,,,,,,כֹל,וְ,,HC/Ncbsa,H9002=ו=and/H3605=כֹּל=all
+Gen.2.19-21,,,,,,,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which
+Gen.2.19-22,,,,,,־,יִקְרָא,,HVqi3ms,H7121=קָרָא=to call_§2_call_by|name/H9014=־=link
+Gen.2.19-23,,,,,,וֹ,ל,,HRd/Sp3ms,H9005=ל=to/H9033=Os3m=him
+Gen.2.19-24,,,,,,אָדָם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.19-25,,,,,,,נֶפֶשׁ,,HNcbsa,H5315=נֶ֫פֶשׁ=soul_§5_animal
+Gen.2.19-26,,,,,,,חַיָּה,,HAafsa,H2416a=חַי=alive
+Gen.2.19-27,,,,,,,הוּא,,HPp3ms,H1931=הוּא=he|she|it
+Gen.2.19-28,,,,,׃,וֹ,שְׁמ,,HNcbsc/Sp3ms,H8034=שֵׁם=name/H9023=Ps3m=his/H9016=׃=verseEnd
+Gen.2.20-01,,,,,,יִּקְרָא,וַ,,Hc/Vqw3ms,H9001=ו=seq/H7121=קָרָא=to call_§2_call_by|name
+Gen.2.20-02,,,,,,אָדָ֜ם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.20-03,,,,,,,שֵׁמ֗וֹת,,HNcfpa,H8034=שֵׁם=name
+Gen.2.20-04,,,,,־,כָל,לְ,,HR/Ncbsc,H9005=ל=to/H3605=כֹּל=all/H9014=־=link
+Gen.2.20-05,,,,,,בְּהֵמָה,הָ,,HTd/Ncfsa,H9009=ה=the/H0929=בְּהֵמָה=animal
+Gen.2.20-06,,,,,עוֹף,לְ,וּ,,HC/R/Ncbsc,H9002=ו=and/H9005=ל=to/H5775=עוֹף=bird
+Gen.2.20-07,,,,,,שָּׁמַיִם,הָ,,HTd/Ncmpa,H9009=ה=the/H8064=שָׁמַיִם=heaven
+Gen.2.20-08,,,,,כֹל,לְ,וּ,,HC/R/Ncbsc,H9002=ו=and/H9005=ל=to/H3605=כֹּל=all
+Gen.2.20-09,,,,,,,חַיַּת,,HNcfsc,H2416c=חַיָּה=living thing
+Gen.2.20-10,,,,,,שָּׂדֶה,הָ,,HTd/Ncbsa,H9009=ה=the/H7704b=שָׂדֶה=field_§2_country|field
+Gen.2.20-11,,,,,אָדָ֕ם,לְ,וּ,,HC/R/Ncbsa,H9002=ו=and/H9005=ל=to/H0121=אָדָם=Adam_§Adam@Gen.2.19
+Gen.2.20-12,,,,,,־,לֹא,,HTn,H3808=לֹא=not/H9014=־=link
+Gen.2.20-13,,,,,,,מָצָא,,HVqp3ms,H4672=מָצָא=to find
+Gen.2.20-14,,,,,,,עֵזֶר,,HNcbsa,H5828=עֵ֫זֶר=helper
+Gen.2.20-15,,,,׃,וֹ,נֶגְדּ,כְּ,,HR/Ncbsc/Sp3ms,H9004=כ=like/H5048=נֶ֫גֶד=before/H9033=Os3m=him/H9016=׃=verseEnd
+Gen.2.21-01,,,,,,יַּפֵּל,וַ,,Hc/Vhw3ms,H9001=ו=seq/H5307=נָפַל=to fall_§1_fall|drop|fail
+Gen.2.21-02,,,,,,,יְהוָה,,HNpt,H3068=יהוה=YHWH|Yahweh_§LORD|God@Gen.1.1
+Gen.2.21-03,,,,,,׀,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1/H9015=׀=separate
+Gen.2.21-04,,,,,,,תַּרְדֵּמָה,,HNcfsa,H8639=תַּרְדֵּמָה=deep sleep
+Gen.2.21-05,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.2.21-06,,,,,,אָדָם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.21-07,,,,,,יִּישָׁן,וַ,,Hc/Vqw3ms,H9001=ו=seq/H3462=יָשֵׁן=to sleep
+Gen.2.21-08,,,,,,יִּקַּ֗ח,וַ,,Hc/Vqw3ms,H9001=ו=seq/H3947=לָקַח=to take_§1_take
+Gen.2.21-09,,,,,,,אַחַת,,HAcfsa,H0259=אֶחָד=one
+Gen.2.21-10,,,,,ו,צַּלְעֹתָי,מִ,,HR/Ncfpc/Sp3ms,H9006=מ=from/H6763=צֵלָע=side/H9023=Ps3m=his
+Gen.2.21-11,,,,,,יִּסְגֹּר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H5462=סָגַר=to shut
+Gen.2.21-12,,,,,,,בָּשָׂר,,HNcbsa,H1320=בָּשָׂר=flesh
+Gen.2.21-13,,,,,׃,נָּה,תַּחְתֶּ,,HNcbsc/Sp3fs,H8478=תַּחַת=underneath_§2_instead|in_place|exchange/H9034=Os3f=her/H9016=׃=verseEnd
+Gen.2.22-01,,,,,,יִּבֶן,וַ,,Hc/Vqw3ms,H9001=ו=seq/H1129=בָּנָה=to build
+Gen.2.22-02,,,,,,,יְהוָה,,HNpt,H3068=יהוה=YHWH|Yahweh_§LORD|God@Gen.1.1
+Gen.2.22-03,,,,,,׀,אֱלֹהִים,,HNcmpa,H0430=אֱלֹהִים=God_§God@Gen.1.1/H9015=׀=separate
+Gen.2.22-04,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.2.22-05,,,,,,צֵּלָע,הָ,,HTd/Ncbsa,H9009=ה=the/H6763=צֵלָע=side
+Gen.2.22-06,,,,,,־,אֲשֶׁר,,HTr,H0834a=אֲשֶׁר=which/H9014=־=link
+Gen.2.22-07,,,,,,,לָקַח,,HVqp3ms,H3947=לָקַח=to take_§1_take
+Gen.2.22-08,,,,,,־,מִן,,HR,H4480a=מִן־=from/H9014=־=link
+Gen.2.22-09,,,,,,אָדָם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.22-10,,,,,,אִשָּׁה,לְ,,HR/Ncfsa,H9005=ל=to/H0802=אִשָּׁה=woman_§1_woman
+Gen.2.22-11,,,,,הָ,יְבִאֶ,וַ,,Hc/Vhw3ms/Sp3fs,H9001=ו=seq/H0935=בּוֹא=to come (in)_§2_bring|take_in/H9034=Os3f=her
+Gen.2.22-12,,,,,,־,אֶל,,HR,H0413=אֶל=to(wards)/H9014=־=link
+Gen.2.22-13,,,,,׃,אָדָם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19/H9016=׃=verseEnd
+Gen.2.23-01,,,,,,יֹּאמֶר,וַ,,Hc/Vqw3ms,H9001=ו=seq/H0559=אָמַר=to say
+Gen.2.23-02,,,,,,אָדָם֒,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.23-03,,,,,,,זֹאת,,HTm,H2063=זֹאת=this
+Gen.2.23-04,,,,,,פַּ֗עַם,הָ,,HTd/Ncbsa,H9009=ה=the/H6471=פַּ֫עַם=beat
+Gen.2.23-05,,,,,,,עֶ֚צֶם,,HNcbsa,H6106=עֶ֫צֶם=bone_§1_bone|limb
+Gen.2.23-06,,,,,י,עֲצָמַ,מֵ,,HR/Ncmpc/Sp1bs,H9006=מ=from/H6106=עֶ֫צֶם=bone_§1_bone|limb/H9020=Ps1c=my
+Gen.2.23-07,,,,,,בָשָׂר,וּ,,HC/Ncbsa,H9002=ו=and/H1320=בָּשָׂר=flesh
+Gen.2.23-08,,,,,י,בְּשָׂר,מִ,,HR/Ncbsc/Sp1bs,H9006=מ=from/H1320=בָּשָׂר=flesh/H9020=Ps1c=my
+Gen.2.23-09,,,,,,זֹאת,לְ,,HR/Tm,H9005=ל=to/H2063=זֹאת=this
+Gen.2.23-10,,,,,,,יִקָּרֵא,,HVNi3ms,H7121=קָרָא=to call_§2_call_by|name
+Gen.2.23-11,,,,,,,אִשָּׁה,,HNcfsa,H0802=אִשָּׁה=woman_§1_woman
+Gen.2.23-12,,,,,,,כִּי,,HTc,H3588a=כִּי=for
+Gen.2.23-13,,,,,,אישׁ,מֵ,,HR/Ncbsa,H9006=מ=from/H0376=אִישׁ=man_§1_man
+Gen.2.23-14,,,,,,־,לֻקֳחָה,,HVPp3fs,H3947=לָקַח=to take_§1_take/H9014=־=link
+Gen.2.23-15,,,,,,׃,זֹּאת,,HTm,H2063=זֹאת=this/H9016=׃=verseEnd
+Gen.2.24-01,,,,,,־,עַל,,HR,H5921a=עַל=upon/H9014=־=link
+Gen.2.24-02,,,,,,,כֵּן,,HD,H3651c=כֵּן=so
+Gen.2.24-03,,,,,,־,יַעֲזָב,,HVqi3ms,H5800a=עָזַב=to leave_§_forsake/H9014=־=link
+Gen.2.24-04,,,,,,,אִישׁ,,HNcbsa,H0376=אִישׁ=man_§1_man
+Gen.2.24-05,,,,,,־,אֶת,,HTo,H0853=אֵת=obj./H9014=־=link
+Gen.2.24-06,,,,,,ו,אָבי,,HNcbsc/Sp3ms,H0001=אָב=father/H9023=Ps3m=his
+Gen.2.24-07,,,,,־,אֶת,וְ,,HC/To,H9002=ו=and/H0853=אֵת=obj./H9014=־=link
+Gen.2.24-08,,,,,,וֹ,אִמּ,,HNcbsc/Sp3ms,H0517=אֵם=mother/H9023=Ps3m=his
+Gen.2.24-09,,,,,,דָבַק,וְ,,Hc/Vqq3ms,H9001=ו=seq/H1692=דָּבַק=to cleave
+Gen.2.24-10,,,,,וֹ,אִשְׁתּ,בְּ,,HR/Ncfsc/Sp3ms,H9003=ב=in/H0802=אִשָּׁה=woman_§2_wife|widow/H9023=Ps3m=his
+Gen.2.24-11,,,,,,הָיוּ,וְ,,Hc/Vqq3cp,H9001=ו=seq/H1961=הָיָה=to be
+Gen.2.24-12,,,,,,בָשָׂר,לְ,,HR/Ncbsa,H9005=ל=to/H1320=בָּשָׂר=flesh
+Gen.2.24-13,,,,,,׃,אֶחָד,,HAcbsa,H0259=אֶחָד=one/H9016=׃=verseEnd
+Gen.2.25-01,,,,,,יִּהְיוּ,וַ,,Hc/Vqw3mp,H9001=ו=seq/H1961=הָיָה=to be
+Gen.2.25-02,,,,,,הֶם,שְׁנֵי,,HAcbdc/Sp3mp,H8147=שְׁנַ֫יִם=two/H9028=Pp3m=their
+Gen.2.25-03,,,,,,,עֲרוּמִּים,,HAampa,H6174=עָרוֹם=naked
+Gen.2.25-04,,,,,,אָדָם,הָ,,HTd/Ncbsa,H9009=ה=the/H0120=אָדָם=man_§man|Adam@Gen.2.19
+Gen.2.25-05,,,,,וֹ,אִשְׁתּ,וְ,,HC/Ncfsc/Sp3ms,H9002=ו=and/H0802=אִשָּׁה=woman_§2_wife|widow/H9023=Ps3m=his
+Gen.2.25-06,,,,,,לֹא,וְ,,HC/Tn,H9002=ו=and/H3808=לֹא=not
+Gen.2.25-07,,,,,,׃,יִתְבֹּשָׁשׁוּ,,HVti3mp,H0954=בּוֹשׁ=be ashamed/H9016=׃=verseEnd
+Gen.3.1-01,,,,,נָּחָשׁ,הָ,וְ,,HC/Td/Ncbsa,H9002=ו=and/H9009=ה=the/H5175=נָחָשׁ=serpent
