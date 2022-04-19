@@ -1,4 +1,4 @@
 # Hebrew-Translator
-Analyze, classify, decode, and visualize Hebrew text data
+Translation automation app
 
 Work in progress
